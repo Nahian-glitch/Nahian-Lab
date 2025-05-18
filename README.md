@@ -1,6 +1,6 @@
 # The Nahian-Lab
 <h1 align="center">Hi 👋, I'm Nahian Alam</h1>
-<h3 align="center">A passionate MERN stack developer & tech enthusiast</h3>
+<h3 align="center">A passionate Full-stack developer & tech enthusiast</h3>
 
 ---
 
